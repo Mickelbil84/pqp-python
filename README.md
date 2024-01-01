@@ -1,5 +1,5 @@
 # pqp-python
-Python bindings for the PQP collision detection library
+Python bindings for the PQP collision detection library.
 
 
 ## Disclaimer
