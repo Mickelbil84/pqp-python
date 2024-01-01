@@ -3,8 +3,8 @@ requires = ["scikit-build-core", "pybind11"]
 build-backend = "scikit_build_core.build"
 
 [project]
-name = "pqp-python"
-version = "1.0.0"
+name = "pqp"
+version = "1.0.1"
 description = "Python bindings for the PQP collision detection library."
 readme = "README.md"
 authors = [
